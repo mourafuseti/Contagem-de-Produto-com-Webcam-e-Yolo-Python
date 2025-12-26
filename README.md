@@ -73,10 +73,13 @@ Caso a contagem ainda apresente pequenas oscilações, você pode ajustar as seg
 
 Este projeto é para fins educacionais e de estudo em Visão Computacional.
 
-```
+
+
 
 ---
 
+## 🚀 Vamos desenvolver seu projeto de IA?
 
+Se você precisa de uma solução personalizada de Visão Computacional ou Inteligência Artificial para o seu negócio, entre em contato:
 
-```
+📩 **Desenvolvimento de Projetos em IA** 📱 **WhatsApp:** [Clique aqui para falar conosco: (35) 99903-7763](https://wa.me/5535999037763)
